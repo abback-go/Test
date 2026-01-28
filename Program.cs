@@ -5,3 +5,7 @@ int a=3;
 int b=5;
 int c= a+b;
 System.Console.WriteLine(c);
+a=33;
+b=55;
+c= a+b;
+System.Console.WriteLine(c);

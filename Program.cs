@@ -9,3 +9,7 @@ a=33;
 b=55;
 c= a+b;
 System.Console.WriteLine(c);
+a=33;
+b=55;
+c= a*b;
+System.Console.WriteLine(c);

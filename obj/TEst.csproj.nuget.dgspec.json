@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Abback\\VSCode\\TEst\\TEst.csproj": {}
+    "C:\\Abback\\shinip\\Test\\TEst.csproj": {}
   },
   "projects": {
-    "C:\\Abback\\VSCode\\TEst\\TEst.csproj": {
+    "C:\\Abback\\shinip\\Test\\TEst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Abback\\VSCode\\TEst\\TEst.csproj",
+        "projectUniqueName": "C:\\Abback\\shinip\\Test\\TEst.csproj",
         "projectName": "TEst",
-        "projectPath": "C:\\Abback\\VSCode\\TEst\\TEst.csproj",
+        "projectPath": "C:\\Abback\\shinip\\Test\\TEst.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Abback\\VSCode\\TEst\\obj\\",
+        "outputPath": "C:\\Abback\\shinip\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
